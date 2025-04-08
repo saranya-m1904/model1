@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/saranya-m1904/model1.git/static/css/main.334c1bb3.css",
+    "main.js": "/saranya-m1904/model1.git/static/js/main.6cd13938.js",
+    "static/js/787.8eb42f38.chunk.js": "/saranya-m1904/model1.git/static/js/787.8eb42f38.chunk.js",
+    "index.html": "/saranya-m1904/model1.git/index.html",
+    "main.334c1bb3.css.map": "/saranya-m1904/model1.git/static/css/main.334c1bb3.css.map",
+    "main.6cd13938.js.map": "/saranya-m1904/model1.git/static/js/main.6cd13938.js.map",
+    "787.8eb42f38.chunk.js.map": "/saranya-m1904/model1.git/static/js/787.8eb42f38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334c1bb3.css",
+    "static/js/main.6cd13938.js"
+  ]
+}
